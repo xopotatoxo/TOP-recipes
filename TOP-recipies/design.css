@@ -1,0 +1,23 @@
+*{
+    background-color: lightseagreen;
+    color: black;
+}
+
+p, h1, h2{
+    text-align: center;
+}
+
+.list-view{
+    text-align: left;
+    align-items: center;
+}
+
+.directions{
+    font-style: italic;
+}
+
+.picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

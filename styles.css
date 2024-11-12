@@ -1,0 +1,16 @@
+/* styles.css */
+
+*{
+    color: black;
+    background-color: lightpink;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title-name{
+    font-size: 52px;
+}
+
+.recipe-name{
+    font-size: 28px;
+}
